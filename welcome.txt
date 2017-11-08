@@ -1,3 +1,4 @@
 חךרעו welcome
 Parallel branch
 print(salut);
+print();
